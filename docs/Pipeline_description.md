@@ -1,6 +1,6 @@
 # Pipeline
 
-![Pipeline](docs/Pipeline.png "Pipeline")
+![Pipeline](Pipeline.png "Pipeline")
 
 ## Process
 

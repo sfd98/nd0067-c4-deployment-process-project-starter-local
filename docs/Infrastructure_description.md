@@ -1,6 +1,6 @@
 # Infrastructure
 
-![Infrastructure](docs/Infrastructure.png "Infrastructure")
+![Infrastructure](Infrastructure.png "Infrastructure")
 
 ## Description
 
